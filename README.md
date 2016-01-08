@@ -7,4 +7,4 @@
 Last-But-Not-The-Least: [ Python sub-reddit ] ( https://www.reddit.com/r/Python/ )
 
 PyCoders Hangout Place [ so-chatroom ] ( http://chat.stackoverflow.com/rooms/6/python )  
-[![Join the chat at https://gitter.im/saarpy/Python-snippets](https://badges.gitter.im/saarpy/Python-snippets.svg)](https://gitter.im/saarpy/Python-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Gitter Chatroom  [![Join the chat at https://gitter.im/saarpy/Python-snippets](https://badges.gitter.im/saarpy/Python-snippets.svg)](https://gitter.im/saarpy/Python-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
