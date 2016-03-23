@@ -10,4 +10,3 @@ def isiterable(obj):
         return True
     except TypeError: # not iterable
         return False
-        
