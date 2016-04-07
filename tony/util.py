@@ -1,5 +1,5 @@
 '''
-    Util module of tony
+    util module of tony
 '''
 
 # Verify that an object is iterable if it implemented the iterator protocol
