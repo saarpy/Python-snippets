@@ -1,18 +1,22 @@
 '''
-    util module of tony
+    Utilities module of Tony
 '''
 
-# Verify that an object is iterable if it implemented the iterator protocol
 def isiterable(obj):
-    '''This function would return Truefor strings as well as most Python collection types'''
+    '''Verify that an object is iterable if it implemented the iterator protocol.
+
+    This function would return True for strings as well as most Python collection types.
+    '''
     try:
         iter(obj)
         return True
     except TypeError: # not iterable
         return False
 
-# make a list of the operations you want to apply to a particular set of strings:
+
 def remove_punctuation(value):
+    '''make a list of the operations you want to apply to a particular set of strings.
+    '''
     return re.sub('[!#?]', '', value)
 
 clean_ops = [str.strip, remove_punctuation, str.title]
